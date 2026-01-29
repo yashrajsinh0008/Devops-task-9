@@ -12,5 +12,5 @@ This task demonstrates basic Docker usage.
 - Checked logs and cleaned up
 
 ### Deliverables
-- Dockerfile
+- Dockerfile(The Dockerfile is currently unavailable because of a local configuration issue)
 - Running container screenshots
